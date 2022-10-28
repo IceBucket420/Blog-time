@@ -1,6 +1,12 @@
-My ID development blog
+<html>
 
-Week 1
-- Learned about HTML
-Week2 
-- Learned about HTML Sementics and CSS
+<head>
+</head>
+<body>
+<h1> Welcome to my ID development blog!</h1>
+<h3> Week 1 </h3>
+<p> - Learned about HTML </p>
+<h3> Week 2 </h3>
+<p>- Learned about HTML semetics and CSS
+</body>
+</html>
